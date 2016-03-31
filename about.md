@@ -1,13 +1,13 @@
 ---
 layout: page
 title: درباره ی من
-permalink: /about/
+permalink: /about.html
 ---
+فاطمه سادات شفیعی
+
+دانشجوی مهندسی نرم افزار ( [دانشگاه بزرگمهر](www.buqaen.ac.ir) ) هستم
 
 
-
-شما می توانید من را اکانت گیت هابم دنبال کنید:
+شما می توانید  اکانت گیت هابم دنبال کنید:
 {% include icon-github.html username="sadatsh" %} 
-
-حساب من در گوگل پلاس:
 
