@@ -1,7 +1,7 @@
 ---
 layout: post
 title: استفاده از برچسب و دسته بندی در جکیل
-permalink: JekyllbaseFormat.html
+permalink: tags_category.html
 description: برچسب و دسته بندی در صفحات گیت هاپ بدون استفاده از پلاگین
 date: 2016-04-01 00:52:48 +04:30
 category: programming
