@@ -5,7 +5,7 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
+  font-family: Yekan;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -105,7 +105,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: Yekan, Yekan;
   font-size: 1em;
 }
 button,
@@ -261,16 +261,16 @@ th {
   }
 }
 @font-face {
-  font-family: 'Glyphicons Halflings';
+  font-family: 'IranianSans';
 
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('../fonts/IranianSans.otf');
+  src: url('../fonts/Yekan.eot?#iefix') format('embedded-opentype'), url('../fonts/Yekan.woff2') format('woff2'), url('../fonts/Yekan.woff') format('woff'), url('../fonts/Yekan.ttf') format('truetype'), url('../fonts/Yekan.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
   top: 1px;
   display: inline-block;
-  font-family: 'Glyphicons Halflings';
+  font-family: 'Yekan';
   font-style: normal;
   font-weight: normal;
   line-height: 1;
@@ -1082,7 +1082,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Yekan", Yekan, IranianSans;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
@@ -1532,7 +1532,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-family: Menlo, Monaco, Consolas, "Yekan", Yekan;
 }
 code {
   padding: 2px 4px;
@@ -1540,6 +1540,7 @@ code {
   color: #c7254e;
   background-color: #f9f2f4;
   border-radius: 4px;
+  text-align: left;
 }
 kbd {
   padding: 2px 4px;
@@ -5993,7 +5994,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "IranianSans", IranianSans, Arial, sans-serif;
   font-size: 12px;
   font-style: normal;
   font-weight: normal;
@@ -6112,7 +6113,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Yekan", Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: normal;

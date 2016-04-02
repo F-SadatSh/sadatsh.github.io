@@ -8,6 +8,8 @@ layout: default
 
     <ul class="post-list">
         {% for post in site.posts %}
+        <hr>
+        <div class="box">
         <li>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -16,7 +18,9 @@ layout: default
             </h2>
             {{ post.excerpt }}<button class="btn btn-default"><a href="{{ post.url | prepend: site.baseurl }}"> ادامه مطلب </a></button>
         </li>
+    </div>
         {% endfor %}
+<hr>
     </ul>
 
     <!-- moved to page footer -->

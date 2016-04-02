@@ -32,5 +32,5 @@ timezone: Asia/Tehran
 
 gems:
   - jekyll-sitemap
-#  - jalalidate
+#  - jalalidate - coderay
   
