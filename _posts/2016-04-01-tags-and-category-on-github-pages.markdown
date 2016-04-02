@@ -75,7 +75,7 @@ tags: [jekyll,Introductory , Training, github]
     - slug: github-pages
       name: GitHub Pages
       
-6- برای هر تگ استفاده شده در سایت باید یک تمپلیت خالی مانند **blog/tag/github-pages.md**  تعیریف شود.
+6- برای هر تگ استفاده شده در سایت باید یک تمپلیت خالی مانند **blog/tag/github-pages.md**  تعریف شود.
 
     ---
     layout: blog_by_tag
