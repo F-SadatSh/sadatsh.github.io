@@ -6,6 +6,7 @@ description: مقدمه ای بر جکیل
 date: 2016-04-01 00:52:48 +04:30
 category: programming
 tags: [jekyll,Introductory , Training]
+author_github: shafiei
 ---
 
 
