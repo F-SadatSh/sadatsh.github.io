@@ -51,12 +51,11 @@ author_github: shafiei
 
 در آخرین مرحله باید در لای اوت پست کد مربوط به نمایش نام نویسنده وارد شود.
 
-```html+django
 
     <span class="author-name">
       {{ site.data.authors.[page.author_github].name }}
     </span>
-```
+
 
 
 اطلاعات بیشتر در [آدرس](http://blog.bigbinary.com/2015/01/09/author-information-in-jekyll-blog.html)
