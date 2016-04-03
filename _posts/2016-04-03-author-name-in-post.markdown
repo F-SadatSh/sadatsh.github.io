@@ -51,7 +51,7 @@ author_github: shafiei
 
 در آخرین مرحله باید در لای اوت پست کد مربوط به نمایش نام نویسنده وارد شود.
 
-```html
+```html+django
 
     <span class="author-name">
       {{ site.data.authors.[page.author_github].name }}
