@@ -21,7 +21,7 @@ url: "http://sadat-shafiei.ir" # the base hostname & protocol for your site
 twitter_username:
 github_username:  sadatsh
 
-favicon: "img/favicon.png"
+favicon: "assets/img/icon.png"
 
 # Build settings
 markdown: kramdown
